@@ -1,0 +1,26 @@
+{
+  "name": "readjsonrequest",
+  "version": "1.0.0",
+  "description": "A package to read any JSON link provided as an argument",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratewar/readjsonrequest.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Rajat Ratewal <rajatratewal@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratewar/readjsonrequest/issues"
+  },
+  "homepage": "https://github.com/ratewar/readjsonrequest#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "yargs": "^8.0.1"
+  }
+}
