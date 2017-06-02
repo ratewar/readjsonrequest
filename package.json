@@ -1,6 +1,6 @@
 {
   "name": "readjsonrequest",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A package to read any JSON link provided as an argument",
   "main": "index.js",
   "scripts": {
