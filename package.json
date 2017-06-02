@@ -15,6 +15,7 @@
   ],
   "author": "Rajat Ratewal <rajatratewal@gmail.com>",
   "license": "ISC",
+  "readme": "README.md",
   "bugs": {
     "url": "https://github.com/ratewar/readjsonrequest/issues"
   },
